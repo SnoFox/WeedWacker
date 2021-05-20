@@ -1,0 +1,6 @@
+name: WeedWacker
+version: ${project.version}
+main: net.snofox.minecraft.weedwacker.WeedWacker
+api-version: 1.16
+authors: [ SnoFox ]
+description: Stop plants from growing where unwanted
